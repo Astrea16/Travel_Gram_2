@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI.eot');
+    src: url('NirmalaUI.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI.woff') format('woff'),
+        url('NirmalaUI.svg#NirmalaUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI.eot');
+    src: url('NirmalaUI.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI.woff') format('woff'),
+        url('NirmalaUI.svg#NirmalaUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI-Bold.eot');
+    src: url('NirmalaUI-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI-Bold.woff') format('woff'),
+        url('NirmalaUI-Bold.svg#NirmalaUI-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI-Bold.eot');
+    src: url('NirmalaUI-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI-Bold.woff') format('woff'),
+        url('NirmalaUI-Bold.svg#NirmalaUI-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
